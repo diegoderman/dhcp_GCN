@@ -1,0 +1,5 @@
+X,participant_id,singleton,birth_age,sex,birth_weight,session_id,scan_age,scan_number
+2,CC00058XX09,S,40.28571429,male,4.135,11300,40.57,1
+3,CC00060XX03,S,40.14285714,female,2.845,12501,40.29,1
+6,CC00065XX08,S,40.42857143,male,3.4,18600,40.71,1
+7,CC00067XX10,S,40,male,3.125,20200,40.14,1
